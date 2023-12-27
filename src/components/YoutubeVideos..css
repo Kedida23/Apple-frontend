@@ -1,0 +1,26 @@
+.footer-wrapper {
+    background-color: #fff;
+    padding: 50px;
+}
+.singleVideoWraper {
+    background-color: #f3f2f2;
+    box-shadow: 4x 0px 13px rgba(158,158, 158,0, 0.12);
+    margin-bottom: 30px;
+    max-height: 580px;
+    overflow: hidden;
+}
+.videoInfoWrapper {
+    padding: 10px 20px;
+    text-align: left;
+}
+.videoDesc {
+    font-size: .6em;
+    color: gray;
+}
+.videoTitle {
+    font-weight: 700;
+    line-height: 1.2em;
+}
+.videoTitle a {
+    color: black;
+}
